@@ -12,8 +12,8 @@ import com.moodstocks.android.MoodstocksError;
 public class MainActivity extends Activity implements Scanner.SyncListener {
 
   // Moodstocks API key/secret pair
-  private static final String API_KEY    = "9lq0ixbxxgsokj9kezw5";
-  private static final String API_SECRET = "nLLlvWvmYdEsfwSp";
+  private static final String API_KEY    = "API-Key";
+  private static final String API_SECRET = "API-Secret";
 
   private boolean compatible = false;
   private Scanner scanner;
