@@ -1,0 +1,2 @@
+C:\HelloMS-Android-Auto\app\build\intermediates\classes\release
+C:\HelloMS-Android-Auto\app\build\intermediates\pre-dexed\release\moodstocks-e801a343acb730efb5a8eb83c173f4a2c17e8f36.jar
